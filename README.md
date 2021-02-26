@@ -6,7 +6,7 @@ Para correr el programa se necesita un Entorno de Desarrollo Integrado(EDI) para
 ### Acerca del proyecto
 Este programa permite resolver sudokus en el formato clásico de 9 x 9 casillas.
 
-### ¿Qué es sudoku?
+#### ¿Qué es sudoku?
 
 Sudoku es un juego matemático japonés. Consiste en un recuadro de 81 casillas, estás están divididas en 9 cuadrantes de 3 x 3 casillas cada uno.
 #### Reglas del juego
