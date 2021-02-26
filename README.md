@@ -68,6 +68,7 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
      ![alt text](https://github.com/IvanaLuBE/Sudoku/blob/master/images/ErrorColumna.png)
      ![alt text](https://github.com/IvanaLuBE/Sudoku/blob/master/images/ErrorCuadrante.png)
      ![alt text](https://github.com/IvanaLuBE/Sudoku/blob/master/images/ErrorCaracterInvalido.png)
+     
  2.Al resolver el sudoku por mí mismo encontré otra solución, ¿por qué no es la misma que muestra el programa?
     Nuestro programa muestra la primera respuesta que encontró, pero esto no significa que sea la única, ni hay una solución mejor que otra. 
  3. ¿Se guardan los sudokus que resolví?
