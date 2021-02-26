@@ -71,6 +71,7 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
  
  ## Preguntas Frecuentes
  1.  ¿Cómo puedo saber si el sudoku que ingresé tiene algún error?
+ 
      El programa indica con un mensaje en la parte inferior cuando encuentre un casilla en la que no se cumpla alguna de las reglas.
      Algunos de los errores más comunes se muestran en las siguientes imágenes:
      
@@ -83,18 +84,23 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
     Nuestro programa muestra la primera respuesta que encontró, pero esto no significa que sea la única, ni hay una solución mejor que otra. 
     
  3. ¿Se guardan los sudokus que resolví?
+ 
     No, lamentablemente no se guarda el historial de juegos resueltos.
     
  4. ¿Hay algún sudoku que no pueda resolver?
+ 
     ¡No! Si hay alguna respuesta posible, por más difícil que esta sea la encontrará. Nuestro programa es muy rápido y eficiente, no hay sudoku que pueda ganarle.
     
  5. ¿Que tanto espacio de memoria necesita el programa para ejecutarse?
+ 
     El programa es muy liviano, necesita solo 792 KB de memoria.
     
  6. ¿Hay un número límite de juegos que pueda resolver?
+ 
     ¡No! Puedes utilizarlo todas las veces que quieras.
     
  7. ¿Puedo utilizar otro formato de sudoku?
+ 
      No, sabemos que existen distintos formatos como Supersudoku de 16×16 casillas o Juuni sudoku de 12 x 12 casillas, pero este programa solo sirve para el formato clásico.
  ***
     
