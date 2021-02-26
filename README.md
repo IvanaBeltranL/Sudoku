@@ -1,5 +1,13 @@
 # Proyecto de Estructura de Datos: Sudoku
 
+### Tabla de contenido
+* [Requerimientos del programa](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#requerimientos-del-programa)
+* [Acerca del proyecto](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#acerca-del-proyecto)
+* [¿Qué es sudoku?](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#qu%C3%A9-es-sudoku)
+* [Instrucciones para ejecutar el programa](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#instrucciones-para-ejecutar-el-programa)
+* [Preguntas Frecuentes](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#preguntas-frecuentes)
+* [Contacto](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#contacto)
+
 ### Requerimientos del programa
 Para correr el programa se necesita un Entorno de Desarrollo Integrado(EDI) para Java, como [Neatbeans](https://netbeans.org/images_www/v6/download/community/8.2/) o [Eclipse](https://www.eclipse.org/downloads/).
 
