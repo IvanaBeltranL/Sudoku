@@ -5,7 +5,7 @@
 * [Acerca del proyecto](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#acerca-del-proyecto)
 * [Requerimientos del programa](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#requerimientos-del-programa)
 * [¿Qué es sudoku?](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#qu%C3%A9-es-sudoku)
-** [Reglas del juego](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#reglas-del-juego)
+* [Reglas del juego](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#reglas-del-juego)
 * [Instrucciones para ejecutar el programa](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#instrucciones-para-ejecutar-el-programa)
 * [Preguntas Frecuentes](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#preguntas-frecuentes)
 * [Contacto](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#contacto)
