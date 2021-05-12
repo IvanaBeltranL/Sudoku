@@ -1,5 +1,8 @@
 # Proyecto de Estructura de Datos: Sudoku
 
+Este programa permite resolver sudokus en el formato clásico de 9 x 9 casillas.
+
+
 ### Tabla de contenido
 
 * [Acerca del proyecto](https://github.com/IvanaLuBE/Sudoku/blob/master/README.md#acerca-del-proyecto)
@@ -12,8 +15,6 @@
 ****
 
 
-### Acerca del proyecto
-Este programa permite resolver sudokus en el formato clásico de 9 x 9 casillas.
 
 
 ### Requerimientos del programa
@@ -21,11 +22,11 @@ Para correr el programa se necesita un Entorno de Desarrollo Integrado(EDI) para
 ***
 
 
-#### ¿Qué es sudoku?
+### ¿Qué es sudoku?
 
-Sudoku es un juego matemático japonés. Consiste en un recuadro de 81 casillas, estás están divididas en 9 cuadrantes de 3 x 3 casillas cada uno.
-#### Reglas del juego
-El objetivo del juego es rellenar todas las casillas a partir de las pistas iniciales, teniendo en cuenta las siguientes reglas:
+Sudoku es un juego matemático japonés. Consiste en un recuadro de 81 casillas y estás están divididas en 9 cuadrantes de 3 x 3 casillas cada uno.
+
+El objetivo del juego es rellenar todas las casillas a partir de las pistas iniciales mientras se siguen las siguientes reglas:
 * Las casillas solo se pueden rellenar con numeros del 1 al 9.
 * Un número no se puede repetir en una misma columna, en un mismo renglón o en un mismo cuadrante de 3 x 3 casillas.
 
@@ -36,7 +37,7 @@ El objetivo del juego es rellenar todas las casillas a partir de las pistas inic
 1. Descargar el programa contenido en este repositorio, puede clonarlo mediante [Git bash](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) 
 o bien descargarlo de la página principal del [repositorio](https://github.com/IvanaLuBE/Sudoku). Para la última opción debe presionar el botón verde **Code** y descargarlo como ZIP.
 2. Abrir el EDI de su preferencia.
-3. Hacer click en **Abrir proyecto** y seleccionar el archivo **Sudoku** que acaba de descargar, si lo descargó como ZIP debe descomprimirlo primero.
+3. Hacer click en **Abrir proyecto** y seleccionar el archivo **Sudoku** que acaba de descargar. Si descargó el archivo como ZIP debe descomprimirlo primero.
  Al abrir el proyecto en el EDI se despliegan los siguientes archivos.
   
    ![alt text](https://github.com/IvanaLuBE/Sudoku/blob/master/images/Directorio.PNG)
@@ -48,7 +49,7 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
  
     ![alt text](https://github.com/IvanaLuBE/Sudoku/blob/master/images/Interfaz.png)
     
- 6. Ahora sí ¡está listo para resolver un sudoku! Debe ingresar en las casillas los números del sudoku a resolver.
+ 6. Una vez configurado el paso anterior ya puede usar el programa. Para hacerlo debe ingresar en las casillas los números del sudoku a resolver.
  
     Por ejemplo:
  
@@ -61,10 +62,10 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
    En la solución los números que usted ingresó se muestran en casillas blancas y los de la solución en casillas verdes.
  
     ![alt text](https://github.com/IvanaLuBE/Sudoku/blob/master/images/SudokuResuelto.png)
-8. Si quiere resolver otro sudoku el botón **Limpiar** deja listo el programa para usarse nuevamente.
+8. Si quiere resolver otro sudoku, el botón **Limpiar** deja listo el programa para usarse nuevamente.
 9. Si ya acabo de usarlo puede cerrar el programa con el botón derecho superior que tiene una X y posteriormente cerrar el EDI.
 
- **¡Listo! Como puede ver es muy fácil de utilizar.**
+
  ***
  
  
@@ -81,7 +82,7 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
      
  2. Al resolver el sudoku por mí mismo encontré otra solución, ¿por qué no es la misma que muestra el programa?
  
-    Nuestro programa muestra la primera respuesta que encontró, pero esto no significa que sea la única, ni hay una solución mejor que otra. 
+    El programa muestra la primera respuesta encontrada, pero esto no significa que sea la única, ni hay una solución mejor que otra. 
     
  3. ¿Se guardan los sudokus que resolví?
  
@@ -89,7 +90,7 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
     
  4. ¿Hay algún sudoku que no pueda resolver?
  
-    ¡No! Si hay alguna respuesta posible, por más difícil que esta sea la encontrará. Nuestro programa es muy rápido y eficiente, no hay sudoku que pueda ganarle.
+    No, si hay alguna respuesta posible la encontrará. El programa funciona de manera rápida y eficiente
     
  5. ¿Que tanto espacio de memoria necesita el programa para ejecutarse?
  
@@ -97,14 +98,14 @@ o bien descargarlo de la página principal del [repositorio](https://github.com/
     
  6. ¿Hay un número límite de juegos que pueda resolver?
  
-    ¡No! Puedes utilizarlo todas las veces que quieras.
+    No, puede utilizarlo todas las veces que quiera.
     
  7. ¿Puedo utilizar otro formato de sudoku?
  
-     No, sabemos que existen distintos formatos como Supersudoku de 16×16 casillas o Juuni sudoku de 12 x 12 casillas, pero este programa solo sirve para el formato clásico.
+     No, es cierto que existen distintos formatos como Supersudoku de 16×16 casillas o Juuni sudoku de 12 x 12 casillas, pero este programa solo sirve para el formato clásico.
  ***
     
  ### Contacto
- Si tienes alguna duda no dudes en contactarnos al correo : ivanalucho@gmail.com
+ Si tienes alguna duda no dudes en contactarme al correo : ivanalucho@gmail.com
 
     
